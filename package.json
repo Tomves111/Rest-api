@@ -1,0 +1,22 @@
+{
+  "name": "restful",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "latest",
+    "node-restful": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "description": "A node.js RESTapi project",
+  "devDependencies": {},
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Tom Ves",
+  "license": "ISC"
+}
